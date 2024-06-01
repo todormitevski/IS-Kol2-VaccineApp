@@ -1,0 +1,74 @@
+C:\Users\student\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.deps.json
+C:\Users\student\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.dll
+C:\Users\student\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.pdb
+C:\Users\student\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.AssemblyInfo.cs
+C:\Users\student\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.dll
+C:\Users\student\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\refint\IntegratedSystems.Domain.dll
+C:\Users\student\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.pdb
+C:\Users\student\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\ref\IntegratedSystems.Domain.dll
+C:\Users\dimit\Desktop\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.deps.json
+C:\Users\dimit\Desktop\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.dll
+C:\Users\dimit\Desktop\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.pdb
+C:\Users\dimit\Desktop\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.csproj.AssemblyReference.cache
+C:\Users\dimit\Desktop\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\Desktop\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.AssemblyInfo.cs
+C:\Users\dimit\Desktop\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.dll
+C:\Users\dimit\Desktop\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\refint\IntegratedSystems.Domain.dll
+C:\Users\dimit\Desktop\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.pdb
+C:\Users\dimit\Desktop\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\ref\IntegratedSystems.Domain.dll
+C:\Users\dimit\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.deps.json
+C:\Users\dimit\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.dll
+C:\Users\dimit\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.pdb
+C:\Users\dimit\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.csproj.AssemblyReference.cache
+C:\Users\dimit\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.AssemblyInfoInputs.cache
+C:\Users\dimit\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.AssemblyInfo.cs
+C:\Users\dimit\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.dll
+C:\Users\dimit\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\refint\IntegratedSystems.Domain.dll
+C:\Users\dimit\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.pdb
+C:\Users\dimit\Downloads\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\ref\IntegratedSystems.Domain.dll
+C:\Users\vanes\OneDrive\Desktop\IS\IntegratedSystemsExam (1)\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.deps.json
+C:\Users\vanes\OneDrive\Desktop\IS\IntegratedSystemsExam (1)\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.dll
+C:\Users\vanes\OneDrive\Desktop\IS\IntegratedSystemsExam (1)\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.pdb
+C:\Users\vanes\OneDrive\Desktop\IS\IntegratedSystemsExam (1)\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.csproj.AssemblyReference.cache
+C:\Users\vanes\OneDrive\Desktop\IS\IntegratedSystemsExam (1)\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanes\OneDrive\Desktop\IS\IntegratedSystemsExam (1)\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.AssemblyInfoInputs.cache
+C:\Users\vanes\OneDrive\Desktop\IS\IntegratedSystemsExam (1)\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.AssemblyInfo.cs
+C:\Users\vanes\OneDrive\Desktop\IS\IntegratedSystemsExam (1)\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vanes\OneDrive\Desktop\IS\IntegratedSystemsExam (1)\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.dll
+C:\Users\vanes\OneDrive\Desktop\IS\IntegratedSystemsExam (1)\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\refint\IntegratedSystems.Domain.dll
+C:\Users\vanes\OneDrive\Desktop\IS\IntegratedSystemsExam (1)\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.pdb
+C:\Users\vanes\OneDrive\Desktop\IS\IntegratedSystemsExam (1)\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\ref\IntegratedSystems.Domain.dll
+C:\Users\vanes\source\EShopWebApplication\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.deps.json
+C:\Users\vanes\source\EShopWebApplication\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.dll
+C:\Users\vanes\source\EShopWebApplication\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.pdb
+C:\Users\vanes\source\EShopWebApplication\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.csproj.AssemblyReference.cache
+C:\Users\vanes\source\EShopWebApplication\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanes\source\EShopWebApplication\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.AssemblyInfoInputs.cache
+C:\Users\vanes\source\EShopWebApplication\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.AssemblyInfo.cs
+C:\Users\vanes\source\EShopWebApplication\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vanes\source\EShopWebApplication\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.sourcelink.json
+C:\Users\vanes\source\EShopWebApplication\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.dll
+C:\Users\vanes\source\EShopWebApplication\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\refint\IntegratedSystems.Domain.dll
+C:\Users\vanes\source\EShopWebApplication\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.pdb
+C:\Users\vanes\source\EShopWebApplication\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\ref\IntegratedSystems.Domain.dll
+C:\Users\Todor\Desktop\finki s3\sem 6\is\exams\VANCOZ\Integrirani-Sistemi\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.deps.json
+C:\Users\Todor\Desktop\finki s3\sem 6\is\exams\VANCOZ\Integrirani-Sistemi\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.dll
+C:\Users\Todor\Desktop\finki s3\sem 6\is\exams\VANCOZ\Integrirani-Sistemi\IntegratedSystemsExam\IntegratedSystems.Domain\bin\Debug\net8.0\IntegratedSystems.Domain.pdb
+C:\Users\Todor\Desktop\finki s3\sem 6\is\exams\VANCOZ\Integrirani-Sistemi\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.csproj.AssemblyReference.cache
+C:\Users\Todor\Desktop\finki s3\sem 6\is\exams\VANCOZ\Integrirani-Sistemi\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Todor\Desktop\finki s3\sem 6\is\exams\VANCOZ\Integrirani-Sistemi\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.AssemblyInfoInputs.cache
+C:\Users\Todor\Desktop\finki s3\sem 6\is\exams\VANCOZ\Integrirani-Sistemi\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.AssemblyInfo.cs
+C:\Users\Todor\Desktop\finki s3\sem 6\is\exams\VANCOZ\Integrirani-Sistemi\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Todor\Desktop\finki s3\sem 6\is\exams\VANCOZ\Integrirani-Sistemi\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.sourcelink.json
+C:\Users\Todor\Desktop\finki s3\sem 6\is\exams\VANCOZ\Integrirani-Sistemi\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.dll
+C:\Users\Todor\Desktop\finki s3\sem 6\is\exams\VANCOZ\Integrirani-Sistemi\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\refint\IntegratedSystems.Domain.dll
+C:\Users\Todor\Desktop\finki s3\sem 6\is\exams\VANCOZ\Integrirani-Sistemi\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\IntegratedSystems.Domain.pdb
+C:\Users\Todor\Desktop\finki s3\sem 6\is\exams\VANCOZ\Integrirani-Sistemi\IntegratedSystemsExam\IntegratedSystems.Domain\obj\Debug\net8.0\ref\IntegratedSystems.Domain.dll

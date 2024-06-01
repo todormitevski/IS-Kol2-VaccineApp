@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\integratedsystemsexam\\integratedsystems.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\integratedsystemsexam\\integratedsystems.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\integratedsystemsexam\\integratedsystems.service\\implementation\\patientserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|solutionrelative:integratedsystems.service\\implementation\\patientserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\integratedsystemsexam\\integratedsystems.repository\\implementation\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|solutionrelative:integratedsystems.repository\\implementation\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\integratedsystemsexam\\integratedsystems.repository\\interface\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|solutionrelative:integratedsystems.repository\\interface\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\integratedsystemsexam\\integratedsystems.domain\\domain models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0073BE5-0BAF-4052-B937-11E30B47FDDE}|IntegratedSystems.Domain\\IntegratedSystems.Domain.csproj|solutionrelative:integratedsystems.domain\\domain models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\integratedsystemsexam\\integratedsystems.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7C870D-36DE-42BE-B840-52E8C16CF645}|IntegratedSystems.Repository\\IntegratedSystems.Repository.csproj|solutionrelative:integratedsystems.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\integratedsystemsexam\\integratedsystems.service\\interface\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A68030-021C-4648-B06F-5DCB2935C75C}|IntegratedSystems.Service\\IntegratedSystems.Service.csproj|solutionrelative:integratedsystems.service\\interface\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\integratedsystemsexam\\integratedsystems.web\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\integratedsystemsexam\\integratedsystems.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\integratedsystemsexam\\integratedsystems.web\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\integratedsystemsexam\\integratedsystems.web\\views\\vaccinationcenters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D2A778A-9191-47AB-9C68-BC15327486E2}|IntegratedSystems.Web\\IntegratedSystems.Web.csproj|solutionrelative:integratedsystems.web\\views\\vaccinationcenters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Web\\Program.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Web\\Program.cs",
+              "RelativeToolTip": "IntegratedSystems.Web\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:55:27.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Implementation\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Repository\\Implementation\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Implementation\\PatientRepository.cs",
+              "RelativeToolTip": "IntegratedSystems.Repository\\Implementation\\PatientRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:53:37.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Interface\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Repository\\Interface\\IPatientRepository.cs",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Interface\\IPatientRepository.cs",
+              "RelativeToolTip": "IntegratedSystems.Repository\\Interface\\IPatientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:52:06.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Service\\Interface\\IPatientService.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Service\\Interface\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Service\\Interface\\IPatientService.cs",
+              "RelativeToolTip": "IntegratedSystems.Service\\Interface\\IPatientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:48:59.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Service\\Implementation\\PatientServiceImpl.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Service\\Implementation\\PatientServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Service\\Implementation\\PatientServiceImpl.cs",
+              "RelativeToolTip": "IntegratedSystems.Service\\Implementation\\PatientServiceImpl.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:46:28.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Web\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Web\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "IntegratedSystems.Web\\Controllers\\PatientsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:17:21.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IntegratedSystems.Web\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T21:04:38.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Domain\\Domain Models\\Patient.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Domain\\Domain Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Domain\\Domain Models\\Patient.cs",
+              "RelativeToolTip": "IntegratedSystems.Domain\\Domain Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:41:17.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Web\\Controllers\\API\\AdminController.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Controllers\\API\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Web\\Controllers\\API\\AdminController.cs",
+              "RelativeToolTip": "IntegratedSystems.Web\\Controllers\\API\\AdminController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:35:07.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Patients\\Details.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\Patients\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\Patients\\Details.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\Patients\\Details.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T16:23:52.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "RelativeDocumentMoniker": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "RelativeToolTip": "IntegratedSystems.Web\\Views\\VaccinationCenters\\Details.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAABBwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T16:23:48.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "IntegratedSystems.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\IntegratedSystemsExam\\IntegratedSystems.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "IntegratedSystems.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:23:41.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

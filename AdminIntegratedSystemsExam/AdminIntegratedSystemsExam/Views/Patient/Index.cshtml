@@ -1,0 +1,66 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<AdminIntegratedSystemsExam.Models.Patient>
+
+
+<div class="container">
+    <div class="row">
+        <a asp-controller="Patient" asp-action="ExportAllPatients" class="btn btn-info">Export Patients</a>
+    </div>
+
+    <div class="row m-5">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        #
+                    </th>
+                    <th>
+                        Patient details
+                    </th>
+                    <th>
+                        Number of vaccines
+                    </th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < Model.Count(); i++)
+                {
+                    var item = Model[i];
+                    <tr>
+                        <td>@(i + 1)</td>
+                        <td>
+                            @(item.FirstName + " " + item.LastName)
+                        </td>
+
+                        <td>
+                            @(item.VaccinationSchedule?.Count() ?? 0)
+                        </td>
+                        <td>
+                            |
+                            <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">View Patient</a>
+                        </td>
+                        <td>
+                            |
+                            <a asp-action="CreateInvoice" asp-route-id="@item.Id" class="btn btn-info">Create Invoice</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    </div>
+</div>
+
+<form asp-controller="Patient" asp-action="ImportPatients" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <input type="file" name="file" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-success">Import Excel</button>
+</form>

@@ -1,0 +1,70 @@
+[
+  {
+    "ContainingType": "IntegratedSystems.Web.Controllers.API.AdminController",
+    "Method": "GetAllPatients",
+    "RelativePath": "api/Admin/GetAllPatients",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[IntegratedSystems.Domain.Domain_Models.Patient, IntegratedSystems.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "IntegratedSystems.Web.Controllers.API.AdminController",
+    "Method": "GetDetails",
+    "RelativePath": "api/Admin/GetDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "IntegratedSystems.Domain.Domain_Models.BaseEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "IntegratedSystems.Domain.Domain_Models.Patient",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "IntegratedSystems.Web.Controllers.API.AdminController",
+    "Method": "ImportAllPatients",
+    "RelativePath": "api/Admin/ImportAllPatients",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "System.Collections.Generic.List\u00601[[IntegratedSystems.Domain.Domain_Models.Patient, IntegratedSystems.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

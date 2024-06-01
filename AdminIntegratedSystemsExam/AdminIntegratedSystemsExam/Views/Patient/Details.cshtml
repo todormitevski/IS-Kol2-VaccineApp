@@ -1,0 +1,44 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model AdminIntegratedSystemsExam.Models.Patient
+
+<div class="container">
+    <div>
+        <p>Details for Patient: @(Model.FirstName + " " + Model.LastName)</p>
+    </div>
+
+    @if(Model.VaccinationSchedule != null)
+    {
+        @for(int i=0;i<Model.VaccinationSchedule.Count(); i++)
+        {
+            var item = Model.VaccinationSchedule.ElementAt(i);
+            if(i % 3 == 0)
+            {
+                @:<div class="row">
+            }
+            <div class="col-3 m-4">
+
+                <div class="card" style="width: 18rem; height: 35rem">
+                    <img class="card-img-top" src="https://www.who.int/images/default-source/wpro/countries/viet-nam/health-topics/vaccines.jpg?sfvrsn=89a81d7f_14" alt="Vax image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Manufacturer</h5>
+                        <p class="card-text">@item.Certificate</p>
+                        <p class="card-text">@item.DateTaken</p>
+                    </div>
+
+                </div>
+            </div>
+
+            if(i % 3 == 2)
+            {
+                @:</div>
+            }
+        }
+    }
+
+    
+</div>

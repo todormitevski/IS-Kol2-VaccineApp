@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\AdminIntegratedSystemsExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D71DE559-05E0-46DC-8A11-4C5DFE80220F}|AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\adminintegratedsystemsexam\\adminintegratedsystemsexam\\views\\patient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D71DE559-05E0-46DC-8A11-4C5DFE80220F}|AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam.csproj|solutionrelative:adminintegratedsystemsexam\\views\\patient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71DE559-05E0-46DC-8A11-4C5DFE80220F}|AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\adminintegratedsystemsexam\\adminintegratedsystemsexam\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71DE559-05E0-46DC-8A11-4C5DFE80220F}|AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam.csproj|solutionrelative:adminintegratedsystemsexam\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71DE559-05E0-46DC-8A11-4C5DFE80220F}|AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\adminintegratedsystemsexam\\adminintegratedsystemsexam\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D71DE559-05E0-46DC-8A11-4C5DFE80220F}|AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam.csproj|solutionrelative:adminintegratedsystemsexam\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71DE559-05E0-46DC-8A11-4C5DFE80220F}|AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\adminintegratedsystemsexam\\adminintegratedsystemsexam\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71DE559-05E0-46DC-8A11-4C5DFE80220F}|AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam.csproj|solutionrelative:adminintegratedsystemsexam\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71DE559-05E0-46DC-8A11-4C5DFE80220F}|AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\adminintegratedsystemsexam\\adminintegratedsystemsexam\\models\\vaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71DE559-05E0-46DC-8A11-4C5DFE80220F}|AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam.csproj|solutionrelative:adminintegratedsystemsexam\\models\\vaccine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71DE559-05E0-46DC-8A11-4C5DFE80220F}|AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\adminintegratedsystemsexam\\adminintegratedsystemsexam\\models\\vaccinationcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71DE559-05E0-46DC-8A11-4C5DFE80220F}|AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam.csproj|solutionrelative:adminintegratedsystemsexam\\models\\vaccinationcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71DE559-05E0-46DC-8A11-4C5DFE80220F}|AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\adminintegratedsystemsexam\\adminintegratedsystemsexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D71DE559-05E0-46DC-8A11-4C5DFE80220F}|AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam.csproj|solutionrelative:adminintegratedsystemsexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71DE559-05E0-46DC-8A11-4C5DFE80220F}|AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\adminintegratedsystemsexam\\adminintegratedsystemsexam\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71DE559-05E0-46DC-8A11-4C5DFE80220F}|AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam.csproj|solutionrelative:adminintegratedsystemsexam\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71DE559-05E0-46DC-8A11-4C5DFE80220F}|AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam.csproj|c:\\users\\todor\\desktop\\finki s3\\sem 6\\is\\exams\\vancoz\\integrirani-sistemi\\adminintegratedsystemsexam\\adminintegratedsystemsexam\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71DE559-05E0-46DC-8A11-4C5DFE80220F}|AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam.csproj|solutionrelative:adminintegratedsystemsexam\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AdminIntegratedSystemsExam\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AdminIntegratedSystemsExam\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T21:10:03.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "AdminIntegratedSystemsExam\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "AdminIntegratedSystemsExam\\Controllers\\PatientController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAADwv2UAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:02:37.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam\\Views\\Patient\\Details.cshtml",
+              "RelativeDocumentMoniker": "AdminIntegratedSystemsExam\\Views\\Patient\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam\\Views\\Patient\\Details.cshtml",
+              "RelativeToolTip": "AdminIntegratedSystemsExam\\Views\\Patient\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T22:04:16.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam\\Views\\Patient\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdminIntegratedSystemsExam\\Views\\Patient\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam\\Views\\Patient\\Index.cshtml",
+              "RelativeToolTip": "AdminIntegratedSystemsExam\\Views\\Patient\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T21:03:06.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VaccinationCenter.cs",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam\\Models\\VaccinationCenter.cs",
+              "RelativeDocumentMoniker": "AdminIntegratedSystemsExam\\Models\\VaccinationCenter.cs",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam\\Models\\VaccinationCenter.cs",
+              "RelativeToolTip": "AdminIntegratedSystemsExam\\Models\\VaccinationCenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:01:59.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vaccine.cs",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam\\Models\\Vaccine.cs",
+              "RelativeDocumentMoniker": "AdminIntegratedSystemsExam\\Models\\Vaccine.cs",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam\\Models\\Vaccine.cs",
+              "RelativeToolTip": "AdminIntegratedSystemsExam\\Models\\Vaccine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:01:55.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "AdminIntegratedSystemsExam\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam\\Models\\Patient.cs",
+              "RelativeToolTip": "AdminIntegratedSystemsExam\\Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:01:48.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "AdminIntegratedSystemsExam\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "AdminIntegratedSystemsExam\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:01:42.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AdminIntegratedSystemsExam\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Todor\\Desktop\\finki s3\\sem 6\\is\\exams\\VANCOZ\\Integrirani-Sistemi\\AdminIntegratedSystemsExam\\AdminIntegratedSystemsExam\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AdminIntegratedSystemsExam\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:01:37.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
